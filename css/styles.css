@@ -4,6 +4,9 @@ img{
   height: auto;
 }
 .projecttitle{
+  border: 5px solid black;
+  padding: 1px;
+  margin: 10px;
   font-family: Tahoma, Geneva, sans-serif;
   font-size: 17px;
   letter-spacing: 1.8px;
@@ -16,6 +19,9 @@ img{
   text-transform: none;
   }
 .projectdescription{
+  border: 5px solid black;
+  padding: 1px;
+  margin: 10px;
   font-family: Tahoma, Geneva, sans-serif;
   font-size: 14px;
   letter-spacing: 2.8px;
@@ -42,10 +48,12 @@ img{
 }
 
 
+
 @media screen and (min-width: 768px) {
-  
+    
   .column {
-    width: 75%;
+    border: 5px solid black;
+    width: 70%;
     float: left;
     text-align:left
   }
@@ -55,8 +63,9 @@ img{
     text-align:justify
   }
   .rightcolumn {
+    padding: 15px 15px;
+    border: 5px solid black;
     width: 25%;
     float: left;
     text-align: justify;
   }
-}
