@@ -1,6 +1,7 @@
 Landing Page!
 
 By Jannon Sielaff
+Contributions by: Jongmin Soo, Brishna Bakshev, Kelly Mastros, Erin Timlin, Ashe Urban, Mitchell Gantz
 
 -Expository Webpage/Portfolio-
 
@@ -21,6 +22,10 @@ Setup/Installation Requirements:
 Web Browser (to view rendered code)
 Text Editor (to view raw code)
 Image Editing/Viewing software (to look at pretty pictures)
+
+Link to Site:
+
+https://razieleron.github.io/
 
 Known Bugs:
 
