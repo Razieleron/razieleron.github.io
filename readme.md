@@ -14,19 +14,19 @@ Technologies Used:
 
 Description:
 
-This is an expository website for Jannon Sielaff.  This site will include links to programming projects that demonstrate competence in a variety of programming languages/applications.  There will also be a Professional History section, as well as an About Me section, as well as a variety of other information
+This is an expository website for Jannon Sielaff.  This site will include links to programming projects that demonstrate competence in a variety of programming languages/applications.  There will also be a Professional History section, as well as an About Me section, and likely a variety of other information.
 
-Setup/Installation Requirements
+Setup/Installation Requirements:
 
 Web Browser (to view rendered code)
 Text Editor (to view raw code)
 Image Editing/Viewing software (to look at pretty pictures)
 
-Known Bugs
+Known Bugs:
 
 None Currently
 
-License
+License:
 
 Please reach out to me if you have any issues, questions or concerns at jannon.sielaff@gmail.com.  Please feel free to contact me or make a contribution/improvement to my code!
 

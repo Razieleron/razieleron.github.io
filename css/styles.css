@@ -1,0 +1,22 @@
+img{
+  max-width: 50%; 
+  height: auto;
+}
+
+
+
+@media screen and (min-width: 768px) {
+  
+  .column {
+    width: 75%;
+    float: left;
+  }
+  .childcolumn {
+    width: 50%;
+    float: left;
+  }
+  .rightcolumn {
+    width: 25%;
+    float: left;
+  }
+}
