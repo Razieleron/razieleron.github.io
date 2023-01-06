@@ -1,8 +1,33 @@
 
 img{
-  max-width: 50%; 
+  max-width: 75%; 
   height: auto;
 }
+.projecttitle{
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 17px;
+  letter-spacing: 1.8px;
+  word-spacing: 1.0px;
+  color: #000000;
+  font-weight: 600;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  }
+.projectdescription{
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 14px;
+  letter-spacing: 2.8px;
+  word-spacing: 1.6px;
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  }
+
 
 @media screen and (min-width: 768px) {
   
@@ -12,7 +37,7 @@ img{
     text-align:left
   }
   .childcolumn {
-    width: 50%;
+    width: 45%;
     float: left;
     text-align:justify
   }
