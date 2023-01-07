@@ -62,10 +62,13 @@ img{
     float: left;
     text-align:justify
   }
+  
   .rightcolumn {
     padding: 15px 15px;
     border: 5px solid black;
     width: 25%;
     float: left;
     text-align: justify;
-  }
+  } 
+
+}

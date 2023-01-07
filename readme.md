@@ -1,4 +1,4 @@
-Landing Page!
+Application Name: Landing Page!
 
 By Jannon Sielaff
 Contributions by: Jongmin Soo, Brishna Bakshev, Kelly Mastros, Erin Timlin, Ashe Urban, Mitchell Gantz
